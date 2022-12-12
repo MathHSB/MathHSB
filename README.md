@@ -13,7 +13,7 @@
   </p>
  <h1> 👋 Hello Everyone!! </h1>
 
-I am a programing student and currently studying JavaScript and your ecosystem.
+I am a programing student and currently studying .NET plataform, Javascript and your ecosystem.
 
 <h2>🔗Language and tools</h2>
 
